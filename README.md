@@ -53,7 +53,7 @@
 
 (2) 참조 링크  
 
-[블로그 주소][log]
+[블로그 주소][blog]
 
 [blog]: https://velog.io/@jys200210/posts
 
