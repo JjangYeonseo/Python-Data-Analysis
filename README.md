@@ -19,7 +19,8 @@
 
 # 4. 이미지 가져오기
 <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?resize=1024%2C1024&ssl=1"  width="600" height="350">
-![이탈리아 포지타노](https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg)
+![로마](https://github.com/user-attachments/assets/9671b277-49a3-4751-83fb-efa6185eacd7)
+
 
 # 5. 표 만들기
 | 구분 | 의미 | 비고 |
