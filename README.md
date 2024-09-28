@@ -8,8 +8,8 @@
 ###### 제목6
 
 # 2. 번호 없는 목록 만들기
--리스트1
- *리스트2
+*리스트1
+ -리스트2
   +리스트3
     
 # 3. 번호 있는 목록 작성
@@ -48,13 +48,13 @@
 # 10. 링크 달기
 (1) 인라인 링크  
 
-[블로그 주소](https://lsh424.tistory.com/)
+[블로그 주소](https://velog.io/@jys200210/posts)
 
 (2) 참조 링크  
 
-[블로그 주소][blog]
+[블로그 주소][log]
 
-[blog]: https://lsh424.tistory.com/
+[blog]: https://velog.io/@jys200210/posts
 
 # 11. 코드블럭 추가하기
 
@@ -69,6 +69,7 @@ public struct CGSize {
 # etc
 
 **텍스트 굵게**  
+
 ~~텍스트 취소선~~
 
 ### [개행]  
